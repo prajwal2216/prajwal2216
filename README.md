@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @prajwal2216
-- 👀 I’m interested in codeing that to in python 
+- 👋 Hi, I’m @prajwal2216 currently studying in final year 
+     Computer science engineering in manglore under VTU😅
+- 👀 I’m interested in codeing that to in python,HTML,CSS
 - 🌱 I’m currently learning figma🥰
 - 💞️ I’m looking to collaborate on software companies 
 - 📫 instagram account @peaceboy_16
